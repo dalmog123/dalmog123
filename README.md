@@ -10,7 +10,8 @@
 
 <!-- Tech Stack Badges -->
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
@@ -25,6 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmog123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
