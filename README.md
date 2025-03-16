@@ -59,23 +59,23 @@
     <!-- Coming Soon Row -->
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/80?text=Coming+Soon" alt="Coming Soon" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" alt="coming soon!" width="80" /><br>
         <sub><b>Coming Soon</b></sub>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/80?text=Coming+Soon" alt="Coming Soon" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" alt="coming soon!" width="80" /><br>
         <sub><b>Coming Soon</b></sub>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/80?text=Coming+Soon" alt="Coming Soon" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" alt="coming soon!" width="80" /><br>
         <sub><b>Coming Soon</b></sub>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/80?text=Coming+Soon" alt="Coming Soon" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" alt="coming soon!" width="80" /><br>
         <sub><b>Coming Soon</b></sub>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/80?text=Coming+Soon" alt="Coming Soon" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" alt="coming soon!" width="80" /><br>
         <sub><b>Coming Soon</b></sub>
       </td>
     </tr>
