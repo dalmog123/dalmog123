@@ -10,10 +10,12 @@
 
 <!-- Tech Stack Badges -->
 <h3 align="center">🛠️ Tech Stack</h3>
-<table align="center">
+
+<center>
+
+<table>
   <tr>
     <td align="center">
-      
       <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
@@ -28,6 +30,8 @@
     </td>
   </tr>
 </table>
+
+</center>
 
 
 ---
