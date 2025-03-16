@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Almog Dror</h1>
-<p align="Left">
+<p align="center">
   Accountant from Israel<br>
   Highly skilled Excel user <br>
   Passionate about capital markets and programming in various fields!
@@ -33,7 +33,7 @@
 
 <!-- Projects Grid -->
 ### 🚀 Featured Projects
-
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -136,3 +136,4 @@
     </td>
   </tr>
 </table>
+</p>
