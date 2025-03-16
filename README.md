@@ -10,9 +10,9 @@
 
 <!-- Tech Stack Badges -->
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="50%">
       <h3>🛠️ Tech Stack</h3>
       <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
@@ -23,11 +23,13 @@
       <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" />
       <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" />
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="50%">
+      <h3>📊 Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmog123&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 
