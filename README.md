@@ -3,7 +3,7 @@
 <p align="center">
   Accountant from Israel<br>
   Highly skilled Excel user <br>
-  Passionate about capital markets and programming in various fields!
+  Passionate about capital markets and programming!
 </p>
 
 ---
