@@ -9,7 +9,7 @@
 ---
 
 <!-- Tech Stack Badges -->
-<h3>🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 <table align="center">
   <tr>
     <td align="center">
