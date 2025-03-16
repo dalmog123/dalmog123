@@ -22,7 +22,7 @@
         <sub><b>Gross.net</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/newsight.png?raw=true" alt="Newsight" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/newsight.png?raw=true" alt="NewSight" width="80" /><br>
         <sub><b>Newsight</b></sub>
       </td>
       <td align="center">
@@ -30,7 +30,7 @@
         <sub><b>SkinTag</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt Game" width="80" /><br>
         <sub><b>SwipeIt</b></sub>
       </td>
     </tr>
@@ -40,7 +40,7 @@
         <sub><b>TickerTracer</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/ottomate.png?raw=true" alt="Ottomate" width="80" /><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/ottomate.png?raw=true" alt="ottoMate" width="80" /><br>
         <sub><b>Ottomate</b></sub>
       </td>
       <td align="center">
