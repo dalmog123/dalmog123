@@ -43,7 +43,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/dalmog123/project1">
-          <img src="https://github.com/dalmog123/dalmog123/blob/main/escaperoommaker.png?raw=true" alt="Escape Room Maker" width="50" /><br>
+          <img src="https://github.com/dalmog123/dalmog123/blob/main/escaperoommaker.png?raw=true" alt="Escape Room Maker" width="80" /><br>
           <sub><b>Project 1</b></sub>
         </a>
       </td>
