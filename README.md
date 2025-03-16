@@ -11,7 +11,6 @@
 <!-- Tech Stack Badges -->
 
 ### 🛠️ Tech Stack
-### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
