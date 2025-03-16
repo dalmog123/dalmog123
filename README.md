@@ -78,7 +78,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/dalmog123/project6">
-                 <img src="https://github.com/dalmog123/dalmog123/blob/main/image.png?raw=true" alt="Image" width="80" />
+                 <img src="https://github.com/dalmog123/dalmog123/blob/main/tickertracer.png?raw=true" alt="tickertracer" width="80" />
 <br>
           <sub><b>Project 6</b></sub>
         </a>
@@ -87,13 +87,14 @@
     <tr>
       <td align="center">
         <a href="https://github.com/dalmog123/project7">
-          <img src="https://via.placeholder.com/150" alt="Project 7" /><br>
+          <img src="https://github.com/dalmog123/dalmog123/blob/main/ottomate.png?raw=true" alt="ottomate" width="80" />
+<br><br>
           <sub><b>Project 7</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/dalmog123/project8">
-          <img src="https://via.placeholder.com/150" alt="Project 8" /><br>
+          <img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" alt="unicalendar" width="80" /><br>
           <sub><b>Project 8</b></sub>
         </a>
       </td>
