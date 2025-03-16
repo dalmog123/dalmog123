@@ -9,8 +9,9 @@
 ---
 
 <!-- Tech Stack Badges -->
-<p align="center">
+
 ### 🛠️ Tech Stack
+<p align="center">
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
