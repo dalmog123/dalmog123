@@ -1,23 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋 I'm DalmoG</h1>
+<h1 align="center">Hey 👋 I'm Almog</h1>
 <p align="center">
-  🚀 Passionate about coding, tech, and building cool stuff.<br>
-  🎯 Always learning, always growing.
-</p>
-
----
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalmog123&show_icons=true&theme=tokyonight" alt="DalmoG's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmog123&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalmog123&theme=tokyonight" alt="GitHub Streak" />
+  Accountant from Israel 🇮🇱<br>
+  Highly skilled Excel user 💻<br>
+  Passionate about capital markets 📈 and programming in various fields! 🚀
 </p>
 
 ---
@@ -29,8 +15,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+
+---
+
+<!-- Top Languages -->
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmog123&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -139,10 +132,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<!-- Contact Section -->
-### 📫 Reach Me
-- GitHub: [dalmog123](https://github.com/dalmog123)
-- Email: your_email@example.com (replace with real email if you want)
