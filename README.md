@@ -1,9 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋 I'm Almog</h1>
-<p align="center">
-  Accountant from Israel 🇮🇱<br>
-  Highly skilled Excel user 💻<br>
-  Passionate about capital markets 📈 and programming in various fields! 🚀
+<h1 align="center">Almog Dror</h1>
+<p align="Left">
+  Accountant from Israel<br>
+  Highly skilled Excel user <br>
+  Passionate about capital markets and programming in various fields!
 </p>
 
 ---
@@ -12,10 +12,13 @@
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+
 
 ---
 
