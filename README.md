@@ -43,7 +43,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/dalmog123/project1">
-          <img src="[https://via.placeholder.com/150](https://private-user-images.githubusercontent.com/166450714/423191851-3407f798-336f-4617-8190-e79c8665520a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMDg5MzcsIm5iZiI6MTc0MjEwODYzNywicGF0aCI6Ii8xNjY0NTA3MTQvNDIzMTkxODUxLTM0MDdmNzk4LTMzNmYtNDYxNy04MTkwLWU3OWM4NjY1NTIwYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQwNzAzNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDk2MGFmZTQwMmNlOWYwMzhmZDk5ZjJhZDYwNDdkZWVkYmQ2MmUwNGIyODQ2MWI0M2Q3NDc3MzM3MWZmZTEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CqHzif7TNApvRdInLUXtQGLWw1DaDUXBQ5QLdm6jcO0)" alt="Project 1" /><br>
+          <img src="https://github.com/dalmog123/dalmog123/blob/main/escaperoommaker.png?raw=true" alt="Escape Room Maker" width="200" /><br>
           <sub><b>Project 1</b></sub>
         </a>
       </td>
