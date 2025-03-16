@@ -100,7 +100,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/dalmog123/project9">
-          <img src="https://via.placeholder.com/150" alt="Project 9" /><br>
+           <img src="https://github.com/dalmog123/dalmog123/blob/main/excelsolutions.png?raw=true" alt="excelsolutions" width="80" /><br>
           <sub><b>Project 9</b></sub>
         </a>
       </td>
@@ -108,7 +108,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/dalmog123/project10">
-          <img src="https://via.placeholder.com/150" alt="Project 10" /><br>
+          <img src="https://github.com/dalmog123/dalmog123/blob/main/ideaspace.png?raw=true" alt="ideaspace" width="80" /><br>
           <sub><b>Project 10</b></sub>
         </a>
       </td>
