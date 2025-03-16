@@ -9,11 +9,11 @@
 ---
 
 <!-- Tech Stack Badges -->
-<p align="center">
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
   <table>
     <tr>
       <td align="center">
-        <h3>🛠️ Tech Stack</h3>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
@@ -23,18 +23,20 @@
         <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" />
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmog123&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
 <!-- Projects Grid -->
-### 🚀 Featured Projects
-<p align="center">
+<h3 align="center">🚀 Featured Projects</h3>
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -137,4 +139,4 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
