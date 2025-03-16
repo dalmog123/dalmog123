@@ -9,6 +9,7 @@
 ---
 
 <!-- Tech Stack Badges -->
+<p align="center">
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -19,7 +20,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmog123&layout=compact&theme=tokyonight" alt="Top Languages" />
-
+</p>
 ---
 
 <!-- Projects Grid -->
