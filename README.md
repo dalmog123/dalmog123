@@ -30,7 +30,8 @@
         <sub><b>SkinTag</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt Game" width="80" /><br>
+        <a href="https://dalmog123.github.io/SwipeItGame/" target="_blank">
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt Game" width="80" /></a><br>
         <sub><b>SwipeIt</b></sub>
       </td>
     </tr>
@@ -44,11 +45,13 @@
         <sub><b>Ottomate</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" alt="Unicalendar" width="80" /><br>
+        <a href="https://uni-calendar.vercel.app/" target="_blank">
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" alt="Unicalendar" width="80" /></a><br>
         <sub><b>Unicalendar</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/excelsolutions.png?raw=true" alt="ExcelSolutions" width="80" /><br>
+        <a href="https://dalmog123.github.io/ExcelServices/" target="_blank">
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/excelsolutions.png?raw=true" alt="ExcelSolutions" width="80" /></a><br>
         <sub><b>ExcelSolutions</b></sub>
       </td>
       <td align="center">
@@ -59,11 +62,13 @@
     <!-- Coming Soon Row -->
     <tr>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/NUMIO.png?raw=true" alt="NUMIO" width="80" /><br>
+        <a href="https://www.numiosolutions.com/" target="_blank">
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/NUMIO.png?raw=true" alt="NUMIO" width="80" /></a><br>
         <sub><b>NUMIO Solutions</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="80" /><br>
+        <a href="https://www.vibe-tab.com/" target="_blank">
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="80" /></a><br>
         <sub><b>Vibe Extension</b></sub>
       </td>
       <td align="center">
