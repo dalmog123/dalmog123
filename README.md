@@ -64,7 +64,7 @@
       </td>
       <td align="center">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="80" /><br>
-        <sub><b>Coming Soon</b></sub>
+        <sub><b>Vibe Extension</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" alt="coming soon!" width="80" /><br>
