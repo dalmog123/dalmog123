@@ -27,25 +27,25 @@
         <a href="https://chromewebstore.google.com/detail/whip-cursor-control-your/gnoimbmeinfcfhabjecankoiccnpjaak" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/WHIP LOGO.png?raw=true" alt="WHIP Cursor" width="100" /></a><br>
         <b>WHIP Cursor</b><br>
-        <sub>AI Gesture Control</sub>
+        <sub>Fun Chrome Extension</sub>
       </td>
       <td align="center" width="150">
         <a href="https://uni-calendar.vercel.app/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" alt="Unicalendar" width="100" /></a><br>
         <b>Unicalendar</b><br>
-        <sub>Academic Scheduling</sub>
+        <sub>Academic tools</sub>
       </td>
       <td align="center" width="150">
         <a href="https://dalmog123.github.io/SwipeItGame/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt Game" width="100" /></a><br>
         <b>SwipeIt</b><br>
-        <sub>Interactive Gameplay</sub>
+        <sub>Mobile Game</sub>
       </td>
       <td align="center" width="150">
         <a href="https://www.vibe-tab.com/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="100" /></a><br>
         <b>Vibe Extension</b><br>
-        <sub>Workspace Experience</sub>
+        <sub>AI Powered Shopping assistant</sub>
       </td>
     </tr>
   </table>
