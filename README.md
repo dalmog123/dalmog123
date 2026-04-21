@@ -45,7 +45,7 @@
         <a href="https://www.vibe-tab.com/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="100" /></a><br>
         <b>Vibe Extension</b><br>
-        <sub>AI Powered Shopping assistant</sub>
+        <sub>AI Shopping assistant</sub>
       </td>
     </tr>
   </table>
