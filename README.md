@@ -72,6 +72,7 @@
         <sub><b>Vibe Extension</b></sub>
       </td>
       <td align="center">
+        <a href="https://chromewebstore.google.com/detail/whip-cursor-control-your/gnoimbmeinfcfhabjecankoiccnpjaak" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/WHIP LOGO.png?raw=true" alt="WHIP Cursor" width="80" /><br>
         <sub><b>WHIP Cursor</b></sub>
       </td>
