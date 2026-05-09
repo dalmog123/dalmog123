@@ -1,40 +1,131 @@
-# ⚡ [ALMOG.DROR] > _
-
-**TECH LEAD @ PwC ISRAEL** / **CPO @ NUMIO SOLUTIONS**
-> *Synthesizing Capital Markets with Agentic AI Architecture.*
-
----
-
-### 📂 SYSTEM_MANIFEST
-- **FOCUS:** Building "Big4" Accounting Copilots & IFRS Retrieval Engines.
-- **SKILLS:** `Python` • `TypeScript` • `Next.js` • `VBA/Excel` • `RAG Frameworks`
-- **STATUS:** Scaling `Whip Cursor` & optimizing investigation workflows in `KASAO`.
-
----
-
-### 🕹️ FEATURED_MODULES
+<h1 align="center">Almog Dror</h1>
 
 <p align="center">
-  <a href="https://github.com/dalmog123/KASAO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalmog123&repo=KASAO&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/dalmog123/SwipeItGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalmog123&repo=SwipeItGame&theme=tokyonight&show_owner=true" />
-  </a>
+  Tech Lead @ PwC Israel &nbsp;·&nbsp; Accountant &nbsp;·&nbsp; Builder<br/>
+  Capital markets · Agentic workflows · Indie dev
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
+</div>
+
+---
+
+<p align="center">
+  I'm an accountant by training and a builder by instinct.<br/>
+  As Tech Lead at PwC Israel, I bridge finance teams and modern software.<br/>
+  Outside of work, I ship projects across AI tooling, gaming, and developer productivity.
 </p>
 
 ---
 
-### 🛠️ ACTIVE_PROJECTS
+<h3 align="center"> Featured Projects</h3>
 
-| Project | Domain | Status |
-| :--- | :--- | :--- |
-| **Whip Cursor** | UX / AI Tooling | 🚀 Released (Chrome) |
-| **UniCalendar** | Academic EdTech | 📅 Live |
-| **Ginger Girlz** | Game Dev / Branding | 🎨 In Development |
-| **Numio** | FinOps Automation | ⚙️ Scaling |
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="150">
+<a href="https://chromewebstore.google.com/detail/whip-cursor-control-your/gnoimbmeinfcfhabjecankoiccnpjaak">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/WHIP%20LOGO.png?raw=true" width="80" />
+</a>
+<br/><b>WHIP Cursor</b>
+<br/><sub>Chrome Extension</sub>
+</td>
+
+<td align="center" width="150">
+<a href="https://www.vibe-tab.com/">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" width="80" />
+</a>
+<br/><b>Vibe Extension</b>
+<br/><sub>AI Shopping Assistant</sub>
+</td>
+
+<td align="center" width="150">
+<a href="https://github.com/dalmog123/KASAO">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/KASAO.png?raw=true" width="80" />
+</a>
+<br/><b>KASAO</b>
+<br/><sub>Investigation OS</sub>
+</td>
+
+<td align="center" width="150">
+<a href="https://uni-calendar.vercel.app/">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" width="80" />
+</a>
+<br/><b>Unicalendar</b>
+<br/><sub>Academic Tools</sub>
+</td>
+
+<td align="center" width="150">
+<a href="https://dalmog123.github.io/SwipeItGame/">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" width="80" />
+</a>
+<br/><b>SwipeIt</b>
+<br/><sub>Mobile Game</sub>
+</td>
+
+</tr>
+</table>
+</div>
 
 ---
 
-### 📡 CONNECT_
-`[LinkedIn](https://linkedin.com/in/YOUR_LINK)`  `[Website](https://your-site.com)`  `[Email](mailto:your-email@pwc.com)`
+<h3 align="center"> Other Experiments</h3>
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/NUMIO.png?raw=true" width="56" /><br/><sub>NUMIO</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/tickertracer.png?raw=true" width="56" /><br/><sub>TickerTracer</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/newsight.png?raw=true" width="56" /><br/><sub>NewSight</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/gross.net.png?raw=true" width="56" /><br/><sub>Gross.net</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/skintag.png?raw=true" width="56" /><br/><sub>SkinTag</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/ottomate.png?raw=true" width="56" /><br/><sub>Ottomate</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/excelsolutions.png?raw=true" width="56" /><br/><sub>ExcelSolutions</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/ideaspace.png?raw=true" width="56" /><br/><sub>IdeaSpace</sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://github.com/dalmog123/dalmog123/blob/main/escaperoommaker.png?raw=true" width="56" /><br/><sub>Escape Room</sub>
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <sub>Always building. Sometimes shipping.</sub>
+</div>
