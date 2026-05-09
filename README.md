@@ -1,8 +1,8 @@
 <h1 align="center">Almog Dror</h1>
 <p align="center">
   Accountant from Israel<br>
-  Highly skilled Excel user <br>
-  Passionate about capital markets and programming!
+  Tech Lead @ PwC Israel <br>
+  Passionate about capital markets, programming and agentic workflows
 </p>
 
 <div align="center">
@@ -25,27 +25,37 @@
     <tr>
       <td align="center" width="150">
         <a href="https://chromewebstore.google.com/detail/whip-cursor-control-your/gnoimbmeinfcfhabjecankoiccnpjaak" target="_blank">
-        <img src="https://github.com/dalmog123/dalmog123/blob/main/WHIP LOGO.png?raw=true" alt="WHIP Cursor" width="100" /></a><br>
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/WHIP%20LOGO.png?raw=true" alt="WHIP Cursor" width="100" /></a><br>
         <b>WHIP Cursor</b><br>
         <sub>Fun Chrome Extension</sub>
       </td>
+
       <td align="center" width="150">
         <a href="https://uni-calendar.vercel.app/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" alt="Unicalendar" width="100" /></a><br>
         <b>Unicalendar</b><br>
         <sub>Academic tools</sub>
       </td>
+
       <td align="center" width="150">
         <a href="https://dalmog123.github.io/SwipeItGame/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt Game" width="100" /></a><br>
         <b>SwipeIt</b><br>
         <sub>Mobile Game</sub>
       </td>
+
       <td align="center" width="150">
         <a href="https://www.vibe-tab.com/" target="_blank">
         <img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="100" /></a><br>
         <b>Vibe Extension</b><br>
         <sub>AI Shopping assistant</sub>
+      </td>
+
+      <td align="center" width="150">
+        <a href="https://github.com/dalmog123/KASAO" target="_blank">
+        <img src="https://github.com/dalmog123/dalmog123/blob/main/kasao.png?raw=true" alt="KASAO" width="100" /></a><br>
+        <b>KASAO</b><br>
+        <sub>Investigation OS</sub>
       </td>
     </tr>
   </table>
@@ -61,6 +71,7 @@
       <td align="center"><img src="https://github.com/dalmog123/dalmog123/blob/main/gross.net.png?raw=true" width="60" /><br><sub>Gross.net</sub></td>
       <td align="center"><img src="https://github.com/dalmog123/dalmog123/blob/main/skintag.png?raw=true" width="60" /><br><sub>SkinTag</sub></td>
     </tr>
+
     <tr>
       <td align="center"><img src="https://github.com/dalmog123/dalmog123/blob/main/ottomate.png?raw=true" width="60" /><br><sub>Ottomate</sub></td>
       <td align="center"><img src="https://github.com/dalmog123/dalmog123/blob/main/excelsolutions.png?raw=true" width="60" /><br><sub>ExcelSolutions</sub></td>
@@ -70,3 +81,5 @@
     </tr>
   </table>
 </div>
+
+---
