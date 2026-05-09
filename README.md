@@ -69,7 +69,7 @@
 
 <td align="center" width="150">
 <a href="https://github.com/dalmog123/KASAO" target="_blank">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/kasao.png?raw=true" alt="KASAO" width="100" />
+<img src="https://github.com/dalmog123/dalmog123/blob/main/KASAO.png?raw=true" alt="KASAO" width="100" />
 </a>
 <br>
 <b>KASAO</b>
