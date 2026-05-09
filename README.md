@@ -1,159 +1,73 @@
-<h1 align="center">Almog Dror</h1>
+# ⚡ Almog Dror
 
-<p align="center">
-  Accountant from Israel <br>
-  Tech Lead @ PwC Israel <br>
-  Passionate about capital markets, programming and agentic workflows
+<p align="left">
+  <strong>Tech Lead @ PwC Israel | Innovation Center & CMAAS</strong><br>
+  <em>Bridging the gap between Capital Markets and Agentic AI Architecture.</em>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" />
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@pwc.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<h3 align="center">🌟 Featured Innovations</h3>
+### 🛠️ Technical Ecosystem
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="150">
-<a href="https://chromewebstore.google.com/detail/whip-cursor-control-your/gnoimbmeinfcfhabjecankoiccnpjaak" target="_blank">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/WHIP%20LOGO.png?raw=true" alt="WHIP Cursor" width="100" />
-</a>
-<br>
-<b>WHIP Cursor</b>
-<br>
-<sub>Fun Chrome Extension</sub>
-</td>
-
-<td align="center" width="150">
-<a href="https://uni-calendar.vercel.app/" target="_blank">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/unicalendar.png?raw=true" alt="Unicalendar" width="100" />
-</a>
-<br>
-<b>Unicalendar</b>
-<br>
-<sub>Academic Tools</sub>
-</td>
-
-<td align="center" width="150">
-<a href="https://dalmog123.github.io/SwipeItGame/" target="_blank">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/swipeit.png?raw=true" alt="SwipeIt Game" width="100" />
-</a>
-<br>
-<b>SwipeIt</b>
-<br>
-<sub>Mobile Game</sub>
-</td>
-
-<td align="center" width="150">
-<a href="https://www.vibe-tab.com/" target="_blank">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/VIBE_LOGO.png?raw=true" alt="Vibe Extension" width="100" />
-</a>
-<br>
-<b>Vibe Extension</b>
-<br>
-<sub>AI Shopping Assistant</sub>
-</td>
-
-<td align="center" width="150">
-<a href="https://github.com/dalmog123/KASAO" target="_blank">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/KASAO.png?raw=true" alt="KASAO" width="100" />
-</a>
-<br>
-<b>KASAO</b>
-<br>
-<sub>Investigation OS</sub>
-</td>
-
-</tr>
-</table>
-
-</div>
+| Domain | Stack |
+| :--- | :--- |
+| **Core** | `Python` `TypeScript` `Node.js` `C#` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` |
+| **AI & Automation** | `Agentic Workflows` `LLM Tooling` `RAG Frameworks` `VBA` |
+| **Finance Tech** | `IFRS Retrieval` `Technical Audit Automation` `Alteryx` `UiPath` |
 
 ---
 
-<h3 align="center">🛠️ Other Projects</h3>
+### 🚀 Featured Innovations
 
-<div align="center">
-
-<table>
-
-<tr>
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/NUMIO.png?raw=true" width="60" />
-<br>
-<sub>NUMIO</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/tickertracer.png?raw=true" width="60" />
-<br>
-<sub>TickerTracer</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/newsight.png?raw=true" width="60" />
-<br>
-<sub>NewSight</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/gross.net.png?raw=true" width="60" />
-<br>
-<sub>Gross.net</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/skintag.png?raw=true" width="60" />
-<br>
-<sub>SkinTag</sub>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/ottomate.png?raw=true" width="60" />
-<br>
-<sub>Ottomate</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/excelsolutions.png?raw=true" width="60" />
-<br>
-<sub>ExcelSolutions</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/ideaspace.png?raw=true" width="60" />
-<br>
-<sub>IdeaSpace</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/escaperoommaker.png?raw=true" width="60" />
-<br>
-<sub>Escape Room</sub>
-</td>
-
-<td align="center">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/comingsoon.png?raw=true" width="60" />
-<br>
-<sub>Coming Soon</sub>
-</td>
-</tr>
-
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 KASAO</h4>
+      <p>An Advanced Investigation OS designed for deep-data retrieval and analysis.</p>
+      <a href="https://github.com/dalmog123/KASAO">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🪄 WHIP Cursor</h4>
+      <p>Chrome extension utilizing mouse gestures to manage AI prompt libraries instantly.</p>
+      <a href="https://chromewebstore.google.com/detail/whip-cursor-control-your/gnoimbmeinfcfhabjecankoiccnpjaak">Try on Chrome Store →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📅 UniCalendar</h4>
+      <p>Comprehensive academic toolset tailored for accounting and economics students.</p>
+      <a href="https://uni-calendar.vercel.app/">Launch App →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛍️ Vibe Extension</h4>
+      <p>AI-powered shopping assistant designed to optimize e-commerce decision-making.</p>
+      <a href="https://www.vibe-tab.com/">Visit Vibe →</a>
+    </td>
+  </tr>
 </table>
 
-</div>
+---
+
+### 🏗️ Strategic Projects & Ventures
+
+*   **NUMIO:** Automating compliance and financial operations through intelligent workflows.
+*   **TickerTracer:** Real-time capital market monitoring and technical analysis.
+*   **Ginger Girlz Studio:** Exploring the intersection of game development and branding.
+*   **Whip Cursor Engine:** Developing gesture-based UX for LLM-integrated environments.
+
+---
+
+### 📈 Personal Roadmap
+- **Currently:** Scaling AI Copilots for Big4 Accounting workflows and IFRS interpretation.
+- **Researching:** Advanced Prompt Engineering structures and Hybrid RAG search optimization.
+- **Investing:** Monitoring the evolution of the `.ai` and `.cash` digital asset landscape.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalmog123&show_icons=true&theme=transparent&hide_border=true" alt="Almog's GitHub Stats" />
+</p>
