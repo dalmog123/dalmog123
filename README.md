@@ -57,8 +57,7 @@
 </td>
 
 <td align="center" width="150">
-<img src="https://github.com/dalmog123/dalmog123/blob/main/nadlash_house.png?raw=true" width="80" />
-<br/><b style="font-family: 'Rubik', 'Outfit', sans-serif;">נדלש</b>
+<img src="https://github.com/dalmog123/dalmog123/blob/main/nadlash_logo.png?raw=true" width="80" />
 <br/><sub>Real Estate AI Agent</sub>
 </td>
 
